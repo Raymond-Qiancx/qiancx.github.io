@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Chengxuan Qian (钱承炫)
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Chengxuan
+last_name: Qian
 
 # Status emoji
 status:
@@ -17,15 +17,14 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Second-year undergraduate student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: [Jiangsu University](https://eng.ujs.edu.cn/) and [Arcadia University](https://www.arcadia.edu/majors-and-programs/computer-science-major/)(Official 2+2 Program)
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm now a second-year undergraduate student in Jiangsu University
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
