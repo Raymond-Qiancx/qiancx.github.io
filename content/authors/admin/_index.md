@@ -21,8 +21,8 @@ role: Second-year undergraduate student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: [Jiangsu University](https://eng.ujs.edu.cn/) and [Arcadia University](https://www.arcadia.edu/majors-and-programs/computer-science-major/)(Official 2+2 Program)
-
+  - name: [Jiangsu University](https://eng.ujs.edu.cn/) and [Arcadia University](https://www.arcadia.edu/majors-and-programs/computer-science-major/)
+  
 # Short bio (displayed in user profile at end of posts)
 bio: I'm now a second-year undergraduate student in Jiangsu University
 
