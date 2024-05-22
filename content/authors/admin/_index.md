@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chengxuan(Raymond) Qian (钱承炫)
+title: Chengxuan Qian (钱承炫)
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -17,8 +17,8 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: I'm now a Second-year Undergraduate Student
-
+role: A Second-year Undergraduate Student in Jiangsu University and Arcadia University (2+2 Program)
+url: https://www.arcadia.edu/news/arcadia-and-jiangsu-university-celebrate-10-years-of-collaboration/
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Jiangsu University and Arcadia University (2+2 Program)
