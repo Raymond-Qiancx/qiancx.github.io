@@ -3,7 +3,7 @@
 title: Chengxuan Qian (钱承炫)
 
 # Name pronunciation (optional)
-name_pronunciation:
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Chengxuan
@@ -17,20 +17,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Second-year undergraduate student
+role: Second-year Undergraduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: [Jiangsu University](https://eng.ujs.edu.cn/) and [Arcadia University](https://www.arcadia.edu/majors-and-programs/computer-science-major/)
-    url: 
+  - name: Jiangsu University
+    url: https://eng.ujs.edu.cn/
+
 # Short bio (displayed in user profile at end of posts)
-bio: I'm now a second-year undergraduate student in Jiangsu University
+bio: I'm now searching for the Remote Undergraduate Research Internship in the field of Video Understanding and Multimodal Learning. 
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:raymond.qiancx@gmail.com'
+    url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
