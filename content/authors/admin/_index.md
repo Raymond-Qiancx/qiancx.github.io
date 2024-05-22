@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chengxuan Qian (钱承炫)
+title: Chengxuan(Raymond) Qian (钱承炫)
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -22,7 +22,8 @@ role: I'm now a Second-year Undergraduate Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Jiangsu University and Arcadia University (2+2 Program)
-    url: 
+    url: https://www.arcadia.edu/news/arcadia-and-jiangsu-university-celebrate-10-years-of-collaboration/
+  - name: BS Applied Mathematics and Computer Science (Double Major)  GPA 4.0/4.0  rank 1/60
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm now searching for the Remote Undergraduate Research Internship in the field of Video Understanding and Multimodal Learning. 
@@ -31,14 +32,16 @@ bio: I'm now searching for the Remote Undergraduate Research Internship in the f
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:raymond.qiancx@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/qian_xuan46760
+  - icon: brands/github
+    url: https://github.com/Raymond-Qiancx
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/chengxuan-qian/
+  - icon: brands/google-scholar
+    url: https://scholar.google.com/citations?user=DZDZXtwAAAAJ&hl=zh-CN
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
