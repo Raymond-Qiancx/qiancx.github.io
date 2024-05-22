@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Second-year Undergraduate Student
+role: I'm now a Second-year Undergraduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Jiangsu University
-    url: https://eng.ujs.edu.cn/
+  - name: Jiangsu University and Arcadia University (2+2 Program)
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm now searching for the Remote Undergraduate Research Internship in the field of Video Understanding and Multimodal Learning. 
